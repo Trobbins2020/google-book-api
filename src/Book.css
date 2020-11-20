@@ -1,0 +1,10 @@
+.Book {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Book img {
+    padding: 20px;
+}
